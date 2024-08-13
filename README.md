@@ -6,6 +6,9 @@
 
 <p align="center">
 
+<a href="https://arxiv.org/abs/2408.05780">
+    <img src="https://img.shields.io/badge/arXiv-2408.05780-red" /></a>
+
 <a href="https://github.com/LEFTeyex/U-DECN/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/LEFTeyex/U-DECN" /></a>
 
