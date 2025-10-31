@@ -9,7 +9,7 @@
 <a href="https://doi.org/10.1109/TGRS.2025.3595158">
     <img src="https://img.shields.io/badge/DOI-10.1109/TGRS.2025.3595158-blue" /></a>
 
-<a href="https://arxiv.org/abs/2408.05780.pdf">
+<a href="https://arxiv.org/pdf/2408.05780.pdf">
     <img src="https://img.shields.io/badge/arXiv-2408.05780-rgb(179,27,27)" /></a>
 
 <a href="https://github.com/LEFTeyex/U-DECN/blob/master/LICENSE">
